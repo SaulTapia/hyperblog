@@ -1,3 +1,6 @@
-Esta es mi primera prueba utilizando Git
+Esta es mi primera prueba 
+
+utilizando Git
 Acabo de editar mi prueba
 
+Hoy lo cambié
